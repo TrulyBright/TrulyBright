@@ -5,7 +5,7 @@
 
 ### Hi There👋
 - 📌 I was on an exchange program at City University of Hong Kong🇭🇰 in 2023 fall and 2024 spring.
-- 🎓 I graduate in February, 2025 as a sociology major and computer science minor from Yonsei University. I'm currently looking for a job to work as an [industrial technical personnel](https://elaw.klri.re.kr/eng_service/lawView.do?lang=ENG&hseq=25744).
+- 🎓 I graduate in August, 2025 as a sociology major and computer science minor from Yonsei University. I'm currently looking for a job to work as an [industrial technical personnel](https://elaw.klri.re.kr/eng_service/lawView.do?lang=ENG&hseq=25744).
 - 🗣️ I'm native in Korean and fluent in English.
 <!--
 **TrulyBright/TrulyBright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
