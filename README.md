@@ -1,2 +1,3 @@
-- 2020/03~: Major in Sociology, Minor in Computer Science.
-- 2025/04~: Software Maestro 16th.
+- 2020/03~: 사회학 주전공, 컴퓨터과학 부전공
+- 2025/04~: 소프트웨어 마에스트로 제16기. 총잡이팀 팀장
+- [달타냥](https://play.google.com/store/apps/details?id=com.Gunfighters.dArtagnan)을 팀원 @mssak과 둘이서 개발하여 출시함
